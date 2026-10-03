@@ -1,3 +1,6 @@
+Carl Walz
+carl.walz@mymail.champlain.edu
+
 # Unity 6 CI/CD Boilerplate with GitHub Actions
 
 A Unity 6000.x project that teaches you proper CI/CD on GitHub:
