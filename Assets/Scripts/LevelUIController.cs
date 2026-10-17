@@ -30,10 +30,10 @@ public class LevelUIController : MonoBehaviour
         }
     }
 
-    public void Collect()
+    public void Collect(int points)
     {
-        score++;
-        if (score>=100)
+        score += points;
+        while (score>=100)
         {
             Lives++;
             score -= 100;
